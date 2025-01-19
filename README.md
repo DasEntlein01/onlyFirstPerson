@@ -1,1 +1,3 @@
-An Simple Script that removes all Camera Types except First Person
+# An Simple Script that removes all Camera Types except First Person
+
+#### Fabrizio lutsch eier

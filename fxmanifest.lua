@@ -1,8 +1,7 @@
-fx_version 'cerulean'   -- Die FiveM-Version (aktuell 'cerulean' ist die neueste stabile Version)
-game 'gta5'            -- Das Spiel, für das dieses Skript ist (GTA 5)
+fx_version 'cerulean'
+game 'gta5'
 
-author 'DeinName'      -- Dein Name oder dein Pseudonym
-description 'Skript, das den Spieler automatisch in den First-Person-Modus setzt'
-version '1.0.0'        -- Versionsnummer des Skripts
+author 'DasEntlein'
+version '1.0.0'
 
-client_script 'client.lua' -- Verweis auf dein Haupt-Client-Skript
+client_script 'client.lua'
